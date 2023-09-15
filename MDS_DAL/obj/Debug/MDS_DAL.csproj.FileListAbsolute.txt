@@ -1,0 +1,46 @@
+C:\SPRINT 1\DAY 3(2)\Sprint1.1\MDS_DAL\obj\Debug\MDS_DAL.csprojAssemblyReference.cache
+C:\SPRINT 1\DAY 3(2)\Sprint1.1\MDS_DAL\obj\Debug\MDS_DAL.csproj.CoreCompileInputs.cache
+C:\Users\sudhakar\Desktop\Sprint1\Sprint1.1 UPDATED\MDS_DAL\bin\Debug\MDS_DAL.dll
+C:\Users\sudhakar\Desktop\Sprint1\Sprint1.1 UPDATED\MDS_DAL\bin\Debug\MDS_DAL.pdb
+C:\Users\sudhakar\Desktop\Sprint1\Sprint1.1 UPDATED\MDS_DAL\bin\Debug\MDS_EL.dll
+C:\Users\sudhakar\Desktop\Sprint1\Sprint1.1 UPDATED\MDS_DAL\bin\Debug\MDS_Exception.dll
+C:\Users\sudhakar\Desktop\Sprint1\Sprint1.1 UPDATED\MDS_DAL\bin\Debug\MDS_EL.pdb
+C:\Users\sudhakar\Desktop\Sprint1\Sprint1.1 UPDATED\MDS_DAL\bin\Debug\MDS_Exception.pdb
+C:\Users\sudhakar\Desktop\Sprint1\Sprint1.1 UPDATED\MDS_DAL\obj\Debug\MDS_DAL.csprojAssemblyReference.cache
+C:\Users\sudhakar\Desktop\Sprint1\Sprint1.1 UPDATED\MDS_DAL\obj\Debug\MDS_DAL.csproj.CoreCompileInputs.cache
+C:\Users\sudhakar\Desktop\Sprint1\Sprint1.1 UPDATED\MDS_DAL\obj\Debug\MDS_DAL.csproj.CopyComplete
+C:\Users\sudhakar\Desktop\Sprint1\Sprint1.1 UPDATED\MDS_DAL\obj\Debug\MDS_DAL.dll
+C:\Users\sudhakar\Desktop\Sprint1\Sprint1.1 UPDATED\MDS_DAL\obj\Debug\MDS_DAL.pdb
+C:\Users\sudhakar\Desktop\Sprint1\Sprint 20-03-2021\MDS_DAL\bin\Debug\MDS_DAL.dll
+C:\Users\sudhakar\Desktop\Sprint1\Sprint 20-03-2021\MDS_DAL\bin\Debug\MDS_DAL.pdb
+C:\Users\sudhakar\Desktop\Sprint1\Sprint 20-03-2021\MDS_DAL\bin\Debug\MDS_EL.dll
+C:\Users\sudhakar\Desktop\Sprint1\Sprint 20-03-2021\MDS_DAL\bin\Debug\MDS_Exception.dll
+C:\Users\sudhakar\Desktop\Sprint1\Sprint 20-03-2021\MDS_DAL\bin\Debug\MDS_EL.pdb
+C:\Users\sudhakar\Desktop\Sprint1\Sprint 20-03-2021\MDS_DAL\bin\Debug\MDS_Exception.pdb
+C:\Users\sudhakar\Desktop\Sprint1\Sprint 20-03-2021\MDS_DAL\obj\Debug\MDS_DAL.csprojAssemblyReference.cache
+C:\Users\sudhakar\Desktop\Sprint1\Sprint 20-03-2021\MDS_DAL\obj\Debug\MDS_DAL.csproj.CoreCompileInputs.cache
+C:\Users\sudhakar\Desktop\Sprint1\Sprint 20-03-2021\MDS_DAL\obj\Debug\MDS_DAL.csproj.CopyComplete
+C:\Users\sudhakar\Desktop\Sprint1\Sprint 20-03-2021\MDS_DAL\obj\Debug\MDS_DAL.dll
+C:\Users\sudhakar\Desktop\Sprint1\Sprint 20-03-2021\MDS_DAL\obj\Debug\MDS_DAL.pdb
+D:\CAPGEMINI\SPRINT\SprintUnnecessary\SPRINTUNNECESSARYFILE 2\Sprint 20-03-2021\MDS_DAL\bin\Debug\MDS_DAL.dll
+D:\CAPGEMINI\SPRINT\SprintUnnecessary\SPRINTUNNECESSARYFILE 2\Sprint 20-03-2021\MDS_DAL\bin\Debug\MDS_DAL.pdb
+D:\CAPGEMINI\SPRINT\SprintUnnecessary\SPRINTUNNECESSARYFILE 2\Sprint 20-03-2021\MDS_DAL\bin\Debug\MDS_EL.dll
+D:\CAPGEMINI\SPRINT\SprintUnnecessary\SPRINTUNNECESSARYFILE 2\Sprint 20-03-2021\MDS_DAL\bin\Debug\MDS_Exception.dll
+D:\CAPGEMINI\SPRINT\SprintUnnecessary\SPRINTUNNECESSARYFILE 2\Sprint 20-03-2021\MDS_DAL\bin\Debug\MDS_EL.pdb
+D:\CAPGEMINI\SPRINT\SprintUnnecessary\SPRINTUNNECESSARYFILE 2\Sprint 20-03-2021\MDS_DAL\bin\Debug\MDS_Exception.pdb
+D:\CAPGEMINI\SPRINT\SprintUnnecessary\SPRINTUNNECESSARYFILE 2\Sprint 20-03-2021\MDS_DAL\obj\Debug\MDS_DAL.csprojAssemblyReference.cache
+D:\CAPGEMINI\SPRINT\SprintUnnecessary\SPRINTUNNECESSARYFILE 2\Sprint 20-03-2021\MDS_DAL\obj\Debug\MDS_DAL.csproj.CoreCompileInputs.cache
+D:\CAPGEMINI\SPRINT\SprintUnnecessary\SPRINTUNNECESSARYFILE 2\Sprint 20-03-2021\MDS_DAL\obj\Debug\MDS_DAL.csproj.CopyComplete
+D:\CAPGEMINI\SPRINT\SprintUnnecessary\SPRINTUNNECESSARYFILE 2\Sprint 20-03-2021\MDS_DAL\obj\Debug\MDS_DAL.dll
+D:\CAPGEMINI\SPRINT\SprintUnnecessary\SPRINTUNNECESSARYFILE 2\Sprint 20-03-2021\MDS_DAL\obj\Debug\MDS_DAL.pdb
+C:\Users\Karan Gehlod\Desktop\Sprint SQL\Sprint Final\MDS_DAL\bin\Debug\MDS_DAL.dll
+C:\Users\Karan Gehlod\Desktop\Sprint SQL\Sprint Final\MDS_DAL\bin\Debug\MDS_DAL.pdb
+C:\Users\Karan Gehlod\Desktop\Sprint SQL\Sprint Final\MDS_DAL\bin\Debug\MDS_EL.dll
+C:\Users\Karan Gehlod\Desktop\Sprint SQL\Sprint Final\MDS_DAL\bin\Debug\MDS_Exception.dll
+C:\Users\Karan Gehlod\Desktop\Sprint SQL\Sprint Final\MDS_DAL\bin\Debug\MDS_EL.pdb
+C:\Users\Karan Gehlod\Desktop\Sprint SQL\Sprint Final\MDS_DAL\bin\Debug\MDS_Exception.pdb
+C:\Users\Karan Gehlod\Desktop\Sprint SQL\Sprint Final\MDS_DAL\obj\Debug\MDS_DAL.csprojAssemblyReference.cache
+C:\Users\Karan Gehlod\Desktop\Sprint SQL\Sprint Final\MDS_DAL\obj\Debug\MDS_DAL.csproj.CoreCompileInputs.cache
+C:\Users\Karan Gehlod\Desktop\Sprint SQL\Sprint Final\MDS_DAL\obj\Debug\MDS_DAL.csproj.CopyComplete
+C:\Users\Karan Gehlod\Desktop\Sprint SQL\Sprint Final\MDS_DAL\obj\Debug\MDS_DAL.dll
+C:\Users\Karan Gehlod\Desktop\Sprint SQL\Sprint Final\MDS_DAL\obj\Debug\MDS_DAL.pdb
