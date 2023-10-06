@@ -1,0 +1,14 @@
+C:\SPRINT 1\DAY 3(2)\Sprint1.1\MDS_UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\SPRINT 1\DAY 3(2)\Sprint1.1\MDS_UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\SPRINT 1\DAY 3(2)\Sprint1.1\MDS_UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\SPRINT 1\DAY 3(2)\Sprint1.1\MDS_UnitTestProject\bin\Debug\MDS_UnitTestProject.dll
+C:\SPRINT 1\DAY 3(2)\Sprint1.1\MDS_UnitTestProject\bin\Debug\MDS_UnitTestProject.pdb
+C:\SPRINT 1\DAY 3(2)\Sprint1.1\MDS_UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\SPRINT 1\DAY 3(2)\Sprint1.1\MDS_UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\SPRINT 1\DAY 3(2)\Sprint1.1\MDS_UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\SPRINT 1\DAY 3(2)\Sprint1.1\MDS_UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\SPRINT 1\DAY 3(2)\Sprint1.1\MDS_UnitTestProject\obj\Debug\MDS_UnitTestProject.csprojAssemblyReference.cache
+C:\SPRINT 1\DAY 3(2)\Sprint1.1\MDS_UnitTestProject\obj\Debug\MDS_UnitTestProject.csproj.CoreCompileInputs.cache
+C:\SPRINT 1\DAY 3(2)\Sprint1.1\MDS_UnitTestProject\obj\Debug\MDS_UnitTestProject.csproj.CopyComplete
+C:\SPRINT 1\DAY 3(2)\Sprint1.1\MDS_UnitTestProject\obj\Debug\MDS_UnitTestProject.dll
+C:\SPRINT 1\DAY 3(2)\Sprint1.1\MDS_UnitTestProject\obj\Debug\MDS_UnitTestProject.pdb

@@ -1,0 +1,12 @@
+C:\SPRINT 1\DAY 3(2)\Sprint1.1\MDS_Exception\bin\Debug\MDS_Exception.dll
+C:\SPRINT 1\DAY 3(2)\Sprint1.1\MDS_Exception\bin\Debug\MDS_Exception.pdb
+C:\SPRINT 1\DAY 3(2)\Sprint1.1\MDS_Exception\obj\Debug\MDS_Exception.csprojAssemblyReference.cache
+C:\SPRINT 1\DAY 3(2)\Sprint1.1\MDS_Exception\obj\Debug\MDS_Exception.csproj.CoreCompileInputs.cache
+C:\SPRINT 1\DAY 3(2)\Sprint1.1\MDS_Exception\obj\Debug\MDS_Exception.dll
+C:\SPRINT 1\DAY 3(2)\Sprint1.1\MDS_Exception\obj\Debug\MDS_Exception.pdb
+C:\Users\sudhakar\Desktop\Sprint1\Sprint1.1 UPDATED\MDS_Exception\bin\Debug\MDS_Exception.dll
+C:\Users\sudhakar\Desktop\Sprint1\Sprint1.1 UPDATED\MDS_Exception\bin\Debug\MDS_Exception.pdb
+C:\Users\sudhakar\Desktop\Sprint1\Sprint1.1 UPDATED\MDS_Exception\obj\Debug\MDS_Exception.csprojAssemblyReference.cache
+C:\Users\sudhakar\Desktop\Sprint1\Sprint1.1 UPDATED\MDS_Exception\obj\Debug\MDS_Exception.csproj.CoreCompileInputs.cache
+C:\Users\sudhakar\Desktop\Sprint1\Sprint1.1 UPDATED\MDS_Exception\obj\Debug\MDS_Exception.dll
+C:\Users\sudhakar\Desktop\Sprint1\Sprint1.1 UPDATED\MDS_Exception\obj\Debug\MDS_Exception.pdb

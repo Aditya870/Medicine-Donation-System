@@ -1,0 +1,182 @@
+D:\Capgemini\Training Capgemini\M1\ADO DOTNET\ADO.NET\Demo\Practice\MDS_UI\bin\Debug\MDS_UI.exe.config
+D:\Capgemini\Training Capgemini\M1\ADO DOTNET\ADO.NET\Demo\Practice\MDS_UI\bin\Debug\MDS_UI.exe
+D:\Capgemini\Training Capgemini\M1\ADO DOTNET\ADO.NET\Demo\Practice\MDS_UI\bin\Debug\MDS_UI.pdb
+D:\Capgemini\Training Capgemini\M1\ADO DOTNET\ADO.NET\Demo\Practice\MDS_UI\bin\Debug\MaterialDesignColors.dll
+D:\Capgemini\Training Capgemini\M1\ADO DOTNET\ADO.NET\Demo\Practice\MDS_UI\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Capgemini\Training Capgemini\M1\ADO DOTNET\ADO.NET\Demo\Practice\MDS_UI\bin\Debug\MaterialDesignColors.pdb
+D:\Capgemini\Training Capgemini\M1\ADO DOTNET\ADO.NET\Demo\Practice\MDS_UI\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Capgemini\Training Capgemini\M1\ADO DOTNET\ADO.NET\Demo\Practice\MDS_UI\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Capgemini\Training Capgemini\M1\ADO DOTNET\ADO.NET\Demo\Practice\MDS_UI\obj\Debug\MDS_UI.csprojAssemblyReference.cache
+D:\Capgemini\Training Capgemini\M1\ADO DOTNET\ADO.NET\Demo\Practice\MDS_UI\obj\Debug\App.g.cs
+D:\Capgemini\Training Capgemini\M1\ADO DOTNET\ADO.NET\Demo\Practice\MDS_UI\obj\Debug\MDS_UI_MarkupCompile.cache
+D:\Capgemini\Training Capgemini\M1\ADO DOTNET\ADO.NET\Demo\Practice\MDS_UI\obj\Debug\MDS_UI_MarkupCompile.lref
+D:\Capgemini\Training Capgemini\M1\ADO DOTNET\ADO.NET\Demo\Practice\MDS_UI\obj\Debug\App.baml
+D:\Capgemini\Training Capgemini\M1\ADO DOTNET\ADO.NET\Demo\Practice\MDS_UI\obj\Debug\MDS_UI.g.resources
+D:\Capgemini\Training Capgemini\M1\ADO DOTNET\ADO.NET\Demo\Practice\MDS_UI\obj\Debug\MDS_UI.Properties.Resources.resources
+D:\Capgemini\Training Capgemini\M1\ADO DOTNET\ADO.NET\Demo\Practice\MDS_UI\obj\Debug\MDS_UI.csproj.GenerateResource.cache
+D:\Capgemini\Training Capgemini\M1\ADO DOTNET\ADO.NET\Demo\Practice\MDS_UI\obj\Debug\MDS_UI.csproj.CoreCompileInputs.cache
+D:\Capgemini\Training Capgemini\M1\ADO DOTNET\ADO.NET\Demo\Practice\MDS_UI\obj\Debug\MDS_UI.csproj.CopyComplete
+D:\Capgemini\Training Capgemini\M1\ADO DOTNET\ADO.NET\Demo\Practice\MDS_UI\obj\Debug\MDS_UI.exe
+D:\Capgemini\Training Capgemini\M1\ADO DOTNET\ADO.NET\Demo\Practice\MDS_UI\obj\Debug\MDS_UI.pdb
+D:\Capgemini\Training Capgemini\M1\ADO DOTNET\ADO.NET\Demo\Practice\MDS_UI\obj\Debug\Register.g.cs
+D:\Capgemini\Training Capgemini\M1\ADO DOTNET\ADO.NET\Demo\Practice\MDS_UI\obj\Debug\Register.baml
+D:\Capgemini\Training Capgemini\M1\ADO DOTNET\ADO.NET\Demo\Practice\MDS_UI\obj\Debug\AdminHomePage.g.cs
+D:\Capgemini\Training Capgemini\M1\ADO DOTNET\ADO.NET\Demo\Practice\MDS_UI\obj\Debug\AdminHomePage.baml
+D:\Capgemini\Training Capgemini\M1\ADO DOTNET\ADO.NET\Demo\Practice\MDS_UI\obj\Debug\UserLoginWindow.g.cs
+D:\Capgemini\Training Capgemini\M1\ADO DOTNET\ADO.NET\Demo\Practice\MDS_UI\obj\Debug\UserLoginWindow.baml
+D:\Capgemini\Training Capgemini\M1\ADO DOTNET\ADO.NET\Demo\Practice\MDS_UI\obj\Debug\DonatorWindow.g.cs
+D:\Capgemini\Training Capgemini\M1\ADO DOTNET\ADO.NET\Demo\Practice\MDS_UI\obj\Debug\DonatorWindow.baml
+D:\Capgemini\Training Capgemini\M1\ADO DOTNET\ADO.NET\Demo\Practice\MDS_UI\obj\Debug\NgoWindow.g.cs
+D:\Capgemini\Training Capgemini\M1\ADO DOTNET\ADO.NET\Demo\Practice\MDS_UI\obj\Debug\NgoWindow.baml
+C:\Users\sudhakar\Desktop\Sprint1\Sprint1.1 UPDATED\MDS_UI\bin\Debug\MDS_UI.exe.config
+C:\Users\sudhakar\Desktop\Sprint1\Sprint1.1 UPDATED\MDS_UI\bin\Debug\MDS_UI.exe
+C:\Users\sudhakar\Desktop\Sprint1\Sprint1.1 UPDATED\MDS_UI\bin\Debug\MDS_UI.pdb
+C:\Users\sudhakar\Desktop\Sprint1\Sprint1.1 UPDATED\MDS_UI\bin\Debug\MaterialDesignColors.dll
+C:\Users\sudhakar\Desktop\Sprint1\Sprint1.1 UPDATED\MDS_UI\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\sudhakar\Desktop\Sprint1\Sprint1.1 UPDATED\MDS_UI\bin\Debug\MDS_BL.dll
+C:\Users\sudhakar\Desktop\Sprint1\Sprint1.1 UPDATED\MDS_UI\bin\Debug\MDS_DAL.dll
+C:\Users\sudhakar\Desktop\Sprint1\Sprint1.1 UPDATED\MDS_UI\bin\Debug\MDS_EL.dll
+C:\Users\sudhakar\Desktop\Sprint1\Sprint1.1 UPDATED\MDS_UI\bin\Debug\MDS_Exception.dll
+C:\Users\sudhakar\Desktop\Sprint1\Sprint1.1 UPDATED\MDS_UI\bin\Debug\MDS_BL.pdb
+C:\Users\sudhakar\Desktop\Sprint1\Sprint1.1 UPDATED\MDS_UI\bin\Debug\MDS_DAL.pdb
+C:\Users\sudhakar\Desktop\Sprint1\Sprint1.1 UPDATED\MDS_UI\bin\Debug\MDS_EL.pdb
+C:\Users\sudhakar\Desktop\Sprint1\Sprint1.1 UPDATED\MDS_UI\bin\Debug\MDS_Exception.pdb
+C:\Users\sudhakar\Desktop\Sprint1\Sprint1.1 UPDATED\MDS_UI\bin\Debug\MaterialDesignColors.pdb
+C:\Users\sudhakar\Desktop\Sprint1\Sprint1.1 UPDATED\MDS_UI\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\sudhakar\Desktop\Sprint1\Sprint1.1 UPDATED\MDS_UI\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\sudhakar\Desktop\Sprint1\Sprint1.1 UPDATED\MDS_UI\obj\Debug\MDS_UI.csprojAssemblyReference.cache
+C:\Users\sudhakar\Desktop\Sprint1\Sprint1.1 UPDATED\MDS_UI\obj\Debug\AdminHomePage.g.cs
+C:\Users\sudhakar\Desktop\Sprint1\Sprint1.1 UPDATED\MDS_UI\obj\Debug\DonatorWindow.g.cs
+C:\Users\sudhakar\Desktop\Sprint1\Sprint1.1 UPDATED\MDS_UI\obj\Debug\NgoWindow.g.cs
+C:\Users\sudhakar\Desktop\Sprint1\Sprint1.1 UPDATED\MDS_UI\obj\Debug\Register.g.cs
+C:\Users\sudhakar\Desktop\Sprint1\Sprint1.1 UPDATED\MDS_UI\obj\Debug\UserLoginWindow.g.cs
+C:\Users\sudhakar\Desktop\Sprint1\Sprint1.1 UPDATED\MDS_UI\obj\Debug\App.g.cs
+C:\Users\sudhakar\Desktop\Sprint1\Sprint1.1 UPDATED\MDS_UI\obj\Debug\MDS_UI_MarkupCompile.cache
+C:\Users\sudhakar\Desktop\Sprint1\Sprint1.1 UPDATED\MDS_UI\obj\Debug\MDS_UI_MarkupCompile.lref
+C:\Users\sudhakar\Desktop\Sprint1\Sprint1.1 UPDATED\MDS_UI\obj\Debug\App.baml
+C:\Users\sudhakar\Desktop\Sprint1\Sprint1.1 UPDATED\MDS_UI\obj\Debug\AdminHomePage.baml
+C:\Users\sudhakar\Desktop\Sprint1\Sprint1.1 UPDATED\MDS_UI\obj\Debug\DonatorWindow.baml
+C:\Users\sudhakar\Desktop\Sprint1\Sprint1.1 UPDATED\MDS_UI\obj\Debug\NgoWindow.baml
+C:\Users\sudhakar\Desktop\Sprint1\Sprint1.1 UPDATED\MDS_UI\obj\Debug\Register.baml
+C:\Users\sudhakar\Desktop\Sprint1\Sprint1.1 UPDATED\MDS_UI\obj\Debug\UserLoginWindow.baml
+C:\Users\sudhakar\Desktop\Sprint1\Sprint1.1 UPDATED\MDS_UI\obj\Debug\MDS_UI.g.resources
+C:\Users\sudhakar\Desktop\Sprint1\Sprint1.1 UPDATED\MDS_UI\obj\Debug\MDS_UI.Properties.Resources.resources
+C:\Users\sudhakar\Desktop\Sprint1\Sprint1.1 UPDATED\MDS_UI\obj\Debug\MDS_UI.csproj.GenerateResource.cache
+C:\Users\sudhakar\Desktop\Sprint1\Sprint1.1 UPDATED\MDS_UI\obj\Debug\MDS_UI.csproj.CoreCompileInputs.cache
+C:\Users\sudhakar\Desktop\Sprint1\Sprint1.1 UPDATED\MDS_UI\obj\Debug\MDS_UI.csproj.CopyComplete
+C:\Users\sudhakar\Desktop\Sprint1\Sprint1.1 UPDATED\MDS_UI\obj\Debug\MDS_UI.exe
+C:\Users\sudhakar\Desktop\Sprint1\Sprint1.1 UPDATED\MDS_UI\obj\Debug\MDS_UI.pdb
+C:\Users\sudhakar\Desktop\Sprint1\Sprint 20-03-2021\MDS_UI\obj\Debug\MDS_UI.csprojAssemblyReference.cache
+C:\Users\sudhakar\Desktop\Sprint1\Sprint 20-03-2021\MDS_UI\obj\Debug\AdminHomePage.g.cs
+C:\Users\sudhakar\Desktop\Sprint1\Sprint 20-03-2021\MDS_UI\obj\Debug\DonatorWindow.g.cs
+C:\Users\sudhakar\Desktop\Sprint1\Sprint 20-03-2021\MDS_UI\obj\Debug\NgoWindow.g.cs
+C:\Users\sudhakar\Desktop\Sprint1\Sprint 20-03-2021\MDS_UI\obj\Debug\Register.g.cs
+C:\Users\sudhakar\Desktop\Sprint1\Sprint 20-03-2021\MDS_UI\obj\Debug\UserLoginWindow.g.cs
+C:\Users\sudhakar\Desktop\Sprint1\Sprint 20-03-2021\MDS_UI\obj\Debug\App.g.cs
+C:\Users\sudhakar\Desktop\Sprint1\Sprint 20-03-2021\MDS_UI\obj\Debug\MDS_UI_MarkupCompile.cache
+C:\Users\sudhakar\Desktop\Sprint1\Sprint 20-03-2021\MDS_UI\obj\Debug\MDS_UI_MarkupCompile.lref
+C:\Users\sudhakar\Desktop\Sprint1\Sprint 20-03-2021\MDS_UI\obj\Debug\MDS_UI.exe
+C:\Users\sudhakar\Desktop\Sprint1\Sprint 20-03-2021\MDS_UI\obj\Debug\MDS_UI.pdb
+C:\Users\sudhakar\Desktop\Sprint1\Sprint 20-03-2021\MDS_UI\bin\Debug\MDS_UI.exe.config
+C:\Users\sudhakar\Desktop\Sprint1\Sprint 20-03-2021\MDS_UI\bin\Debug\MDS_UI.exe
+C:\Users\sudhakar\Desktop\Sprint1\Sprint 20-03-2021\MDS_UI\bin\Debug\MDS_UI.pdb
+C:\Users\sudhakar\Desktop\Sprint1\Sprint 20-03-2021\MDS_UI\bin\Debug\MaterialDesignColors.dll
+C:\Users\sudhakar\Desktop\Sprint1\Sprint 20-03-2021\MDS_UI\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\sudhakar\Desktop\Sprint1\Sprint 20-03-2021\MDS_UI\bin\Debug\MDS_BL.dll
+C:\Users\sudhakar\Desktop\Sprint1\Sprint 20-03-2021\MDS_UI\bin\Debug\MDS_DAL.dll
+C:\Users\sudhakar\Desktop\Sprint1\Sprint 20-03-2021\MDS_UI\bin\Debug\MDS_EL.dll
+C:\Users\sudhakar\Desktop\Sprint1\Sprint 20-03-2021\MDS_UI\bin\Debug\MDS_Exception.dll
+C:\Users\sudhakar\Desktop\Sprint1\Sprint 20-03-2021\MDS_UI\bin\Debug\MDS_BL.pdb
+C:\Users\sudhakar\Desktop\Sprint1\Sprint 20-03-2021\MDS_UI\bin\Debug\MDS_DAL.pdb
+C:\Users\sudhakar\Desktop\Sprint1\Sprint 20-03-2021\MDS_UI\bin\Debug\MDS_EL.pdb
+C:\Users\sudhakar\Desktop\Sprint1\Sprint 20-03-2021\MDS_UI\bin\Debug\MDS_Exception.pdb
+C:\Users\sudhakar\Desktop\Sprint1\Sprint 20-03-2021\MDS_UI\bin\Debug\MaterialDesignColors.pdb
+C:\Users\sudhakar\Desktop\Sprint1\Sprint 20-03-2021\MDS_UI\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\sudhakar\Desktop\Sprint1\Sprint 20-03-2021\MDS_UI\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\sudhakar\Desktop\Sprint1\Sprint 20-03-2021\MDS_UI\obj\Debug\App.baml
+C:\Users\sudhakar\Desktop\Sprint1\Sprint 20-03-2021\MDS_UI\obj\Debug\AdminHomePage.baml
+C:\Users\sudhakar\Desktop\Sprint1\Sprint 20-03-2021\MDS_UI\obj\Debug\DonatorWindow.baml
+C:\Users\sudhakar\Desktop\Sprint1\Sprint 20-03-2021\MDS_UI\obj\Debug\NgoWindow.baml
+C:\Users\sudhakar\Desktop\Sprint1\Sprint 20-03-2021\MDS_UI\obj\Debug\Register.baml
+C:\Users\sudhakar\Desktop\Sprint1\Sprint 20-03-2021\MDS_UI\obj\Debug\UserLoginWindow.baml
+C:\Users\sudhakar\Desktop\Sprint1\Sprint 20-03-2021\MDS_UI\obj\Debug\MDS_UI.g.resources
+C:\Users\sudhakar\Desktop\Sprint1\Sprint 20-03-2021\MDS_UI\obj\Debug\MDS_UI.Properties.Resources.resources
+C:\Users\sudhakar\Desktop\Sprint1\Sprint 20-03-2021\MDS_UI\obj\Debug\MDS_UI.csproj.GenerateResource.cache
+C:\Users\sudhakar\Desktop\Sprint1\Sprint 20-03-2021\MDS_UI\obj\Debug\MDS_UI.csproj.CoreCompileInputs.cache
+C:\Users\sudhakar\Desktop\Sprint1\Sprint 20-03-2021\MDS_UI\obj\Debug\MDS_UI.csproj.CopyComplete
+D:\CAPGEMINI\SPRINT\SprintUnnecessary\SPRINTUNNECESSARYFILE 2\Sprint 20-03-2021\MDS_UI\bin\Debug\MDS_UI.exe.config
+D:\CAPGEMINI\SPRINT\SprintUnnecessary\SPRINTUNNECESSARYFILE 2\Sprint 20-03-2021\MDS_UI\bin\Debug\MDS_UI.exe
+D:\CAPGEMINI\SPRINT\SprintUnnecessary\SPRINTUNNECESSARYFILE 2\Sprint 20-03-2021\MDS_UI\bin\Debug\MDS_UI.pdb
+D:\CAPGEMINI\SPRINT\SprintUnnecessary\SPRINTUNNECESSARYFILE 2\Sprint 20-03-2021\MDS_UI\bin\Debug\MaterialDesignColors.dll
+D:\CAPGEMINI\SPRINT\SprintUnnecessary\SPRINTUNNECESSARYFILE 2\Sprint 20-03-2021\MDS_UI\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\CAPGEMINI\SPRINT\SprintUnnecessary\SPRINTUNNECESSARYFILE 2\Sprint 20-03-2021\MDS_UI\bin\Debug\MDS_BL.dll
+D:\CAPGEMINI\SPRINT\SprintUnnecessary\SPRINTUNNECESSARYFILE 2\Sprint 20-03-2021\MDS_UI\bin\Debug\MDS_DAL.dll
+D:\CAPGEMINI\SPRINT\SprintUnnecessary\SPRINTUNNECESSARYFILE 2\Sprint 20-03-2021\MDS_UI\bin\Debug\MDS_EL.dll
+D:\CAPGEMINI\SPRINT\SprintUnnecessary\SPRINTUNNECESSARYFILE 2\Sprint 20-03-2021\MDS_UI\bin\Debug\MDS_Exception.dll
+D:\CAPGEMINI\SPRINT\SprintUnnecessary\SPRINTUNNECESSARYFILE 2\Sprint 20-03-2021\MDS_UI\bin\Debug\MDS_BL.pdb
+D:\CAPGEMINI\SPRINT\SprintUnnecessary\SPRINTUNNECESSARYFILE 2\Sprint 20-03-2021\MDS_UI\bin\Debug\MDS_DAL.pdb
+D:\CAPGEMINI\SPRINT\SprintUnnecessary\SPRINTUNNECESSARYFILE 2\Sprint 20-03-2021\MDS_UI\bin\Debug\MDS_EL.pdb
+D:\CAPGEMINI\SPRINT\SprintUnnecessary\SPRINTUNNECESSARYFILE 2\Sprint 20-03-2021\MDS_UI\bin\Debug\MDS_Exception.pdb
+D:\CAPGEMINI\SPRINT\SprintUnnecessary\SPRINTUNNECESSARYFILE 2\Sprint 20-03-2021\MDS_UI\bin\Debug\MaterialDesignColors.pdb
+D:\CAPGEMINI\SPRINT\SprintUnnecessary\SPRINTUNNECESSARYFILE 2\Sprint 20-03-2021\MDS_UI\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\CAPGEMINI\SPRINT\SprintUnnecessary\SPRINTUNNECESSARYFILE 2\Sprint 20-03-2021\MDS_UI\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\CAPGEMINI\SPRINT\SprintUnnecessary\SPRINTUNNECESSARYFILE 2\Sprint 20-03-2021\MDS_UI\obj\Debug\MDS_UI.csprojAssemblyReference.cache
+D:\CAPGEMINI\SPRINT\SprintUnnecessary\SPRINTUNNECESSARYFILE 2\Sprint 20-03-2021\MDS_UI\obj\Debug\AdminHomePage.g.cs
+D:\CAPGEMINI\SPRINT\SprintUnnecessary\SPRINTUNNECESSARYFILE 2\Sprint 20-03-2021\MDS_UI\obj\Debug\DonatorWindow.g.cs
+D:\CAPGEMINI\SPRINT\SprintUnnecessary\SPRINTUNNECESSARYFILE 2\Sprint 20-03-2021\MDS_UI\obj\Debug\NgoWindow.g.cs
+D:\CAPGEMINI\SPRINT\SprintUnnecessary\SPRINTUNNECESSARYFILE 2\Sprint 20-03-2021\MDS_UI\obj\Debug\Register.g.cs
+D:\CAPGEMINI\SPRINT\SprintUnnecessary\SPRINTUNNECESSARYFILE 2\Sprint 20-03-2021\MDS_UI\obj\Debug\UserLoginWindow.g.cs
+D:\CAPGEMINI\SPRINT\SprintUnnecessary\SPRINTUNNECESSARYFILE 2\Sprint 20-03-2021\MDS_UI\obj\Debug\App.g.cs
+D:\CAPGEMINI\SPRINT\SprintUnnecessary\SPRINTUNNECESSARYFILE 2\Sprint 20-03-2021\MDS_UI\obj\Debug\MDS_UI_MarkupCompile.cache
+D:\CAPGEMINI\SPRINT\SprintUnnecessary\SPRINTUNNECESSARYFILE 2\Sprint 20-03-2021\MDS_UI\obj\Debug\MDS_UI_MarkupCompile.lref
+D:\CAPGEMINI\SPRINT\SprintUnnecessary\SPRINTUNNECESSARYFILE 2\Sprint 20-03-2021\MDS_UI\obj\Debug\App.baml
+D:\CAPGEMINI\SPRINT\SprintUnnecessary\SPRINTUNNECESSARYFILE 2\Sprint 20-03-2021\MDS_UI\obj\Debug\AdminHomePage.baml
+D:\CAPGEMINI\SPRINT\SprintUnnecessary\SPRINTUNNECESSARYFILE 2\Sprint 20-03-2021\MDS_UI\obj\Debug\DonatorWindow.baml
+D:\CAPGEMINI\SPRINT\SprintUnnecessary\SPRINTUNNECESSARYFILE 2\Sprint 20-03-2021\MDS_UI\obj\Debug\NgoWindow.baml
+D:\CAPGEMINI\SPRINT\SprintUnnecessary\SPRINTUNNECESSARYFILE 2\Sprint 20-03-2021\MDS_UI\obj\Debug\Register.baml
+D:\CAPGEMINI\SPRINT\SprintUnnecessary\SPRINTUNNECESSARYFILE 2\Sprint 20-03-2021\MDS_UI\obj\Debug\UserLoginWindow.baml
+D:\CAPGEMINI\SPRINT\SprintUnnecessary\SPRINTUNNECESSARYFILE 2\Sprint 20-03-2021\MDS_UI\obj\Debug\MDS_UI.g.resources
+D:\CAPGEMINI\SPRINT\SprintUnnecessary\SPRINTUNNECESSARYFILE 2\Sprint 20-03-2021\MDS_UI\obj\Debug\MDS_UI.Properties.Resources.resources
+D:\CAPGEMINI\SPRINT\SprintUnnecessary\SPRINTUNNECESSARYFILE 2\Sprint 20-03-2021\MDS_UI\obj\Debug\MDS_UI.csproj.GenerateResource.cache
+D:\CAPGEMINI\SPRINT\SprintUnnecessary\SPRINTUNNECESSARYFILE 2\Sprint 20-03-2021\MDS_UI\obj\Debug\MDS_UI.csproj.CoreCompileInputs.cache
+D:\CAPGEMINI\SPRINT\SprintUnnecessary\SPRINTUNNECESSARYFILE 2\Sprint 20-03-2021\MDS_UI\obj\Debug\MDS_UI.csproj.CopyComplete
+D:\CAPGEMINI\SPRINT\SprintUnnecessary\SPRINTUNNECESSARYFILE 2\Sprint 20-03-2021\MDS_UI\obj\Debug\MDS_UI.exe
+D:\CAPGEMINI\SPRINT\SprintUnnecessary\SPRINTUNNECESSARYFILE 2\Sprint 20-03-2021\MDS_UI\obj\Debug\MDS_UI.pdb
+C:\Users\Karan Gehlod\Desktop\Sprint SQL\Sprint Final\MDS_UI\bin\Debug\MDS_UI.exe.config
+C:\Users\Karan Gehlod\Desktop\Sprint SQL\Sprint Final\MDS_UI\bin\Debug\MDS_UI.exe
+C:\Users\Karan Gehlod\Desktop\Sprint SQL\Sprint Final\MDS_UI\bin\Debug\MDS_UI.pdb
+C:\Users\Karan Gehlod\Desktop\Sprint SQL\Sprint Final\MDS_UI\bin\Debug\MaterialDesignColors.dll
+C:\Users\Karan Gehlod\Desktop\Sprint SQL\Sprint Final\MDS_UI\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Karan Gehlod\Desktop\Sprint SQL\Sprint Final\MDS_UI\bin\Debug\MDS_BL.dll
+C:\Users\Karan Gehlod\Desktop\Sprint SQL\Sprint Final\MDS_UI\bin\Debug\MDS_DAL.dll
+C:\Users\Karan Gehlod\Desktop\Sprint SQL\Sprint Final\MDS_UI\bin\Debug\MDS_EL.dll
+C:\Users\Karan Gehlod\Desktop\Sprint SQL\Sprint Final\MDS_UI\bin\Debug\MDS_Exception.dll
+C:\Users\Karan Gehlod\Desktop\Sprint SQL\Sprint Final\MDS_UI\bin\Debug\MDS_BL.pdb
+C:\Users\Karan Gehlod\Desktop\Sprint SQL\Sprint Final\MDS_UI\bin\Debug\MDS_DAL.pdb
+C:\Users\Karan Gehlod\Desktop\Sprint SQL\Sprint Final\MDS_UI\bin\Debug\MDS_EL.pdb
+C:\Users\Karan Gehlod\Desktop\Sprint SQL\Sprint Final\MDS_UI\bin\Debug\MDS_Exception.pdb
+C:\Users\Karan Gehlod\Desktop\Sprint SQL\Sprint Final\MDS_UI\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Karan Gehlod\Desktop\Sprint SQL\Sprint Final\MDS_UI\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Karan Gehlod\Desktop\Sprint SQL\Sprint Final\MDS_UI\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Karan Gehlod\Desktop\Sprint SQL\Sprint Final\MDS_UI\obj\Debug\MDS_UI.csprojAssemblyReference.cache
+C:\Users\Karan Gehlod\Desktop\Sprint SQL\Sprint Final\MDS_UI\obj\Debug\AdminHomePage.g.cs
+C:\Users\Karan Gehlod\Desktop\Sprint SQL\Sprint Final\MDS_UI\obj\Debug\DonatorWindow.g.cs
+C:\Users\Karan Gehlod\Desktop\Sprint SQL\Sprint Final\MDS_UI\obj\Debug\NgoWindow.g.cs
+C:\Users\Karan Gehlod\Desktop\Sprint SQL\Sprint Final\MDS_UI\obj\Debug\Register.g.cs
+C:\Users\Karan Gehlod\Desktop\Sprint SQL\Sprint Final\MDS_UI\obj\Debug\UserLoginWindow.g.cs
+C:\Users\Karan Gehlod\Desktop\Sprint SQL\Sprint Final\MDS_UI\obj\Debug\App.g.cs
+C:\Users\Karan Gehlod\Desktop\Sprint SQL\Sprint Final\MDS_UI\obj\Debug\MDS_UI_MarkupCompile.cache
+C:\Users\Karan Gehlod\Desktop\Sprint SQL\Sprint Final\MDS_UI\obj\Debug\MDS_UI_MarkupCompile.lref
+C:\Users\Karan Gehlod\Desktop\Sprint SQL\Sprint Final\MDS_UI\obj\Debug\App.baml
+C:\Users\Karan Gehlod\Desktop\Sprint SQL\Sprint Final\MDS_UI\obj\Debug\AdminHomePage.baml
+C:\Users\Karan Gehlod\Desktop\Sprint SQL\Sprint Final\MDS_UI\obj\Debug\DonatorWindow.baml
+C:\Users\Karan Gehlod\Desktop\Sprint SQL\Sprint Final\MDS_UI\obj\Debug\NgoWindow.baml
+C:\Users\Karan Gehlod\Desktop\Sprint SQL\Sprint Final\MDS_UI\obj\Debug\Register.baml
+C:\Users\Karan Gehlod\Desktop\Sprint SQL\Sprint Final\MDS_UI\obj\Debug\UserLoginWindow.baml
+C:\Users\Karan Gehlod\Desktop\Sprint SQL\Sprint Final\MDS_UI\obj\Debug\MDS_UI.g.resources
+C:\Users\Karan Gehlod\Desktop\Sprint SQL\Sprint Final\MDS_UI\obj\Debug\MDS_UI.Properties.Resources.resources
+C:\Users\Karan Gehlod\Desktop\Sprint SQL\Sprint Final\MDS_UI\obj\Debug\MDS_UI.csproj.GenerateResource.cache
+C:\Users\Karan Gehlod\Desktop\Sprint SQL\Sprint Final\MDS_UI\obj\Debug\MDS_UI.csproj.CoreCompileInputs.cache
+C:\Users\Karan Gehlod\Desktop\Sprint SQL\Sprint Final\MDS_UI\obj\Debug\MDS_UI.csproj.CopyComplete
+C:\Users\Karan Gehlod\Desktop\Sprint SQL\Sprint Final\MDS_UI\obj\Debug\MDS_UI.exe
+C:\Users\Karan Gehlod\Desktop\Sprint SQL\Sprint Final\MDS_UI\obj\Debug\MDS_UI.pdb
